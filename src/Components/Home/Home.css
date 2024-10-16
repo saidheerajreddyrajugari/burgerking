@@ -1,0 +1,57 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cooper+Black&display=swap'); */
+*{
+    background-color:  #f7f0e1;
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+#main{
+    height: 382px;
+    width: 80%;
+    margin-left: 200px;
+    display: flex;
+}
+#one{
+    height: 382px;
+    width: 50%;
+    display: flex;
+    background-color: #f7f0e1;
+}
+#two{
+    height: 382px;
+    width: 49%;
+}
+#two img{
+    width: fit-content;
+    height: 382px;
+}
+pre{
+    font-size: 4rem;
+    color: #5b3214;
+    margin-top: -10px;
+    font-weight: bold;
+}
+#btn1{
+    height: 55px;
+    width: 300px;
+    border-radius: 24px;
+    border: none;
+    background-color: rgb(214, 35, 0);
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 200px;
+    margin-left: -400px;
+}
+#btn2{
+    height: 55px;
+    width: 300px;
+    color: red;
+    border:solid red;
+    border-radius: 24px;
+    background-color: none;
+    font-size: 1.5rem;
+    margin-top: 280px;
+    margin-left: -300px;
+}

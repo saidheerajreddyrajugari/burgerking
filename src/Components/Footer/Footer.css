@@ -1,0 +1,27 @@
+.icons{
+    height: 44px;
+    width: 31px;
+    margin-top: 10px;
+}
+.icondiv{
+    width: 30px;
+    height: 15px;
+}
+.icondiv img{
+    width:100%;
+}
+.textdiv{
+    height: 20px;
+    width: 100%;
+}
+.textdiv p{
+    color:#5b3214 ;
+    font-weight: bolder;
+    background-color: #f5ebdc;
+    margin-left: -5px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+
+}

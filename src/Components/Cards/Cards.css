@@ -1,0 +1,36 @@
+#cardsdiv{
+    height: 200vh;
+    width: 80%;
+    margin-left: 190px;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.child{
+    height: 516px;
+    width: 580px;
+    border-radius: 20px ;
+    background-color: white;
+}
+.child img{
+    height: 290px;
+    width: 580px;
+    border-radius: 20px 20px 0px 0px;
+}
+.child button{
+    height: 38px;
+    width: 101px;
+    border: solid rgba(255, 0, 0, 0.724);
+    border-radius: 30px;
+    margin-left: 450px;
+    margin-top: 20px;
+    background-color: white;
+}
+.child h2,p{
+    background-color: white ;
+    color: rgb(80, 35, 20);
+}
+#thi{
+    margin-top: -0px;
+}

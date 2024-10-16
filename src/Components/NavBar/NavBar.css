@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f7f0e1;
+    padding: 10px 20px;
+  }
+  
+  .menu-icon .bar {
+    width: 25px;
+    height: 3px;
+    background: #5b3214;
+    margin: 3px 0;
+    margin-left: 100px;
+  }
+  
+  .logo {
+    color: #5b3214;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-icon {
+    margin-right: 20px;
+  }
+  
+  .cart-btn {
+    background: #e53935;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+  
